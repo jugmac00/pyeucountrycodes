@@ -9,5 +9,5 @@ author = "Jürgen Gmach"
 author-email = "juergen.gmach@googlemail.com"
 description-file = "README.md"
 home-page = "https://github.com/jugmac00/pyeucountrycodes"
-classifiers = ["License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)"]
+classifiers = ["License :: OSI Approved :: GNU General Public License v2 (GPLv2)"]
 
