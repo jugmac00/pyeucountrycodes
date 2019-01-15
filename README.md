@@ -41,6 +41,12 @@ $ flit install
 $ pytest .
 ```
 
+## release history
+
+### 0.7.0 (15.01.2019)
+
+Initial release.
+
 ## sources
 
 List of countries:
