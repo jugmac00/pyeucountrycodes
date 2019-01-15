@@ -25,6 +25,12 @@ https://pypi.org/project/pycountry/
 Please use https://github.com/jugmac00/pyeucountrycodes
 
 
+## run tests
+
+```bash
+pytest .
+```
+
 ## sources
 
 List of countries:
