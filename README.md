@@ -25,10 +25,20 @@ https://pypi.org/project/pycountry/
 Please use https://github.com/jugmac00/pyeucountrycodes
 
 
-## run tests
+## development and run tests
 
-```bash
-pytest .
+```
+$ python3 -m venv .venv
+$ . .venv/bin/activate
+
+$ pip install -U pip
+$ pip install flit
+
+$ git clone git@github.com:jugmac00/pyeucountrycodes.git
+$ cd pyeucountrycodes/
+$ flit install
+
+$ pytest .
 ```
 
 ## sources
