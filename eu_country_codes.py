@@ -1,4 +1,4 @@
-"""All ISO 3166 country codes for eu countries."""
+"""All ISO 3166 country codes for EU countries."""
 
 __version__ = "0.2"
 
