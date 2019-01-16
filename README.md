@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/jugmac00/pyeucountrycodes.svg?branch=master)](https://travis-ci.org/jugmac00/pyeucountrycodes)
+![](https://img.shields.io/pypi/v/pyeucountrycodes.svg)
 ![](https://img.shields.io/pypi/l/pyeucountrycodes.svg)
 
 # pyeucountrycodes
