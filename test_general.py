@@ -7,3 +7,7 @@ def test_germany():
 
 def test_code_from_outside_eu():
     assert "ZW" not in COUNTRY_CODES
+
+
+def test_brexit():
+    assert "GB" not in COUNTRY_CODES
