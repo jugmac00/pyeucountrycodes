@@ -19,4 +19,4 @@ classifiers = [
     "Programming Language :: Python :: 3.9",
     "Topic :: Software Development :: Libraries",
     ]
-requires-python = "=>3.6"
+requires-python = ">=3.6"
