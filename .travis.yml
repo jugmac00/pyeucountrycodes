@@ -7,6 +7,6 @@ python:
 
 install:
   - pip install --upgrade pip
-  - pip install -r requirements-tests.txt
+  - pip install tox-travis
 
-script: pytest
+script: tox

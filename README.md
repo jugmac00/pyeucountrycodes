@@ -33,19 +33,24 @@ Please use https://github.com/jugmac00/pyeucountrycodes
 
 ## development and run tests
 
+You can use [tox](https://tox.readthedocs.io/en/latest/) both as a test runner
+and to set up a dev environment.
+
+### set up dev environment
+
 ```
-$ python3 -m venv .venv
-$ . .venv/bin/activate
-
-$ pip install -U pip
-$ pip install flit
-
-$ git clone git@github.com:jugmac00/pyeucountrycodes.git
-$ cd pyeucountrycodes/
-$ flit install
-
-$ pytest .
+$ tox --devenv devenv
 ```
+
+### run tests
+
+```
+$ tox  # run all tests
+
+$ tox -e py39  # run tests only for Python 3.8
+
+```
+
 
 ## release history
 
@@ -54,6 +59,8 @@ $ pytest .
 Test with GitHub actions.
 
 Add support for Python 3.7 and 3.8.
+
+Add `tox`.
 
 ### 0.7.0 (15.01.2019)
 
