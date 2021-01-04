@@ -53,7 +53,9 @@ $ pytest .
 
 Test with GitHub actions.
 
-Add support for Python 3.7 and 3.8.
+Add support for Python 3.7, 3.8 and 3.9.
+
+Drop support for Python 2.
 
 ### 0.7.0 (15.01.2019)
 
