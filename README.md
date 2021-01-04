@@ -56,7 +56,7 @@ $ pytest .
 
 ## release history
 
-### unreleased
+### 1.0.1 (04.01.2020)
 
 Test with GitHub actions.
 
