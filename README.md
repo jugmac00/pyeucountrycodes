@@ -27,6 +27,11 @@ If you need to access the names of the countries, maybe even in different langua
 
 https://pypi.org/project/pycountry/
 
+## word of caution
+
+Please note, that although Great Britain left the EU,
+e.g. Northern Ireland is still treated - partly - as if it would still belong to the EU.
+
 
 ## contribution, feature requests and bug reports
 
@@ -61,6 +66,8 @@ Drop support for Python 2.
 
 Update usage example.
 
+Remove GB from the list of EU countries.
+
 ### 0.7.0 (15.01.2019)
 
 Initial release.
@@ -69,7 +76,7 @@ Initial release.
 
 List of countries:
 
-https://en.wikipedia.org/wiki/Member_state_of_the_European_Union (visited on 15.01.2019)
+https://en.wikipedia.org/wiki/Member_state_of_the_European_Union (visited on 04.01.2021)
 
 Iso codes:
 

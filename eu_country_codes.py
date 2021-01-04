@@ -14,7 +14,6 @@ COUNTRY_CODES = [
     "ES",
     "FI",
     "FR",
-    "GB",
     "GR",
     "HR",
     "HU",
