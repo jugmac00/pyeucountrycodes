@@ -58,6 +58,8 @@ $ pytest .
 
 ### unreleased
 
+Update development documentation.
+
 ### 1.0.1 (04.01.2020)
 
 Update readme for release.
