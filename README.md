@@ -45,7 +45,7 @@ $ python3 -m venv .venv
 $ . .venv/bin/activate
 
 $ pip install -U pip
-$ pip install flit
+$ pip install flit pytest
 
 $ git clone git@github.com:jugmac00/pyeucountrycodes.git
 $ cd pyeucountrycodes/
