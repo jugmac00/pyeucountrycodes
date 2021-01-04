@@ -7,6 +7,6 @@ python:
 
 install:
   - pip install --upgrade pip
-  - pip install tox-travis
+  - pip install tox-travis flit
 
 script: tox
