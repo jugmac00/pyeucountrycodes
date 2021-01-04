@@ -20,7 +20,6 @@ jobs:
           set -xe
           python -VV
           python -m site
-          python -m pip install --upgrade pip setuptools wheel
-          python -m pip install -r requirements-tests.txt
+          python -m pip install --upgrade pip setuptools wheel pytest
       - name: "Run Tests"
         run: pytest
