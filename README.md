@@ -14,6 +14,8 @@ A list of EU country codes following the ISO 3166-1 / Alpha-2 code.
 pip install pyeucountrycodes
 
 >>> from eu_country_codes import COUNTRY_CODES
+>>> "FR" in COUNTRY_CODES
+True
 ```
 
 
@@ -56,6 +58,8 @@ Test with GitHub actions.
 Add support for Python 3.7, 3.8 and 3.9.
 
 Drop support for Python 2.
+
+Update usage example.
 
 ### 0.7.0 (15.01.2019)
 
