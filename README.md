@@ -1,4 +1,5 @@
 [![CI via GitHub Actions](https://github.com/jugmac00/pyeucountrycodes/workflows/CI/badge.svg)](https://github.com/jugmac00/pyeucountrycodes/actions?query=workflow%3ACI)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pyeucountrycodes)
 [![Current version on PyPI](https://img.shields.io/pypi/v/pyeucountrycodes.svg)](https://pypi.org/project/pyeucountrycodes/)
 [![Requirements Status](https://requires.io/github/jugmac00/pyeucountrycodes/requirements.svg?branch=master)](https://requires.io/github/jugmac00/pyeucountrycodes/requirements/?branch=master)
 ![](https://img.shields.io/pypi/l/pyeucountrycodes.svg)
