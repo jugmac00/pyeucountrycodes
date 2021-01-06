@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/jugmac00/pyeucountrycodes.svg?branch=master)](https://travis-ci.org/jugmac00/pyeucountrycodes)
 [![CI via GitHub Actions](https://github.com/jugmac00/pyeucountrycodes/workflows/CI/badge.svg)](https://github.com/jugmac00/pyeucountrycodes/actions?query=workflow%3ACI)
 [![Current version on PyPI](https://img.shields.io/pypi/v/pyeucountrycodes.svg)](https://pypi.org/project/pyeucountrycodes/)
 [![Requirements Status](https://requires.io/github/jugmac00/pyeucountrycodes/requirements.svg?branch=master)](https://requires.io/github/jugmac00/pyeucountrycodes/requirements/?branch=master)
@@ -59,6 +58,8 @@ $ pytest .
 ### unreleased
 
 Update development documentation.
+
+Do not use Travis CI any more.
 
 ### 1.0.1 (04.01.2020)
 
