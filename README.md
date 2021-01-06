@@ -60,7 +60,7 @@ $ pytest .
 
 Nothing yet.
 
-### 1.1.0 (06.01.2020)
+### 1.1.0 (06.01.2021)
 
 Update development documentation.
 
@@ -68,10 +68,10 @@ Do not use Travis CI any more.
 
 Add badge for supported Python versions.
 
-### 1.0.1 (04.01.2020)
+### 1.0.1 (04.01.2021)
 
 Update readme for release.
-### 1.0.0 (04.01.2020)
+### 1.0.0 (04.01.2021)
 
 Test with GitHub actions.
 
