@@ -56,11 +56,13 @@ $ pytest .
 
 ## release history
 
-### unreleased
+### 1.1.0 (06.01.2020)
 
 Update development documentation.
 
 Do not use Travis CI any more.
+
+Add badge for supported Python versions.
 
 ### 1.0.1 (04.01.2020)
 

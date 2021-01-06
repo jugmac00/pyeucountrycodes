@@ -1,6 +1,6 @@
 """All ISO 3166 country codes for EU countries."""
 
-__version__ = "1.0.2.dev"
+__version__ = "1.1.0"
 
 COUNTRY_CODES = [
     "AT",
