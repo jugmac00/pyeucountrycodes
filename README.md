@@ -56,6 +56,10 @@ $ pytest .
 
 ## release history
 
+### unreleased
+
+Nothing yet.
+
 ### 1.1.0 (06.01.2020)
 
 Update development documentation.
