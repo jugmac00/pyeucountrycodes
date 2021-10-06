@@ -57,7 +57,7 @@ $ pytest .
 
 ### unreleased
 
-Nothing yet.
+Add support for Python 3.10.
 
 ### 1.1.0 (06.01.2021)
 
