@@ -55,7 +55,7 @@ $ pytest .
 
 ## release history
 
-### unreleased
+### 1.2.0 (07.11.2021)
 
 Add support for Python 3.10.
 
